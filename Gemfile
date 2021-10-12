@@ -6,7 +6,7 @@ ruby '2.6.3'
 gem "paperclip", "~> 6.0.0"
 gem 'rails', '~> 5.2.3'
 gem 'pg'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
